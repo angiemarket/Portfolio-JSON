@@ -1,4 +1,4 @@
-const hero = {
+export const hero = {
   name: 'Idris Attar',
   email: 'idrisattar@icloud.com',
   resumeLink: '',
