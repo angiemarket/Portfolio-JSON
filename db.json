@@ -101,24 +101,24 @@
         "topics": [
           {
             "description": "An electronics retailer's app and website were due for an update. Sales were going up the roof, and customers were getting a little antsy with the old-school interface, begging for something that would make their shopping experience easier and more engaging. The owners weren't afraid to try a new style or to break some rules—they had been in business for years and had seen trends come and go without losing any of their loyal customers.",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p1.png.png?raw=true",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p1.png?raw=true",
             "position": "bottom"
           },
           {
             "description": "\n          Input from focus groups showed that people liked the store's selection of big-ticket items, but they also wanted to be able to find what they needed quickly. They wanted a shop that offered the best deals on electronics, with the best quality products. They wanted to have access to knowledgeable salespeople who could answer any questions about products or help them choose one that was right for them.\n          ",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p2.png.png?raw=true",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p2.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p3.png.png?raw=true",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p3.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p4.png.png?raw=true",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p4.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p5.png.png?raw=true",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p5.png?raw=true",
             "position": "bottom"
           }
         ]
