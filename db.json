@@ -94,31 +94,31 @@
     {
       "id": 1,
       "name": "Tech-Hub",
-      "image": "/static/media/techHub.851fc6104425b853f2b7.png",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/techHub.png?raw=true",
       "details": {
-        "image": "/static/media/techHub.851fc6104425b853f2b7.png",
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/techHub.png?raw=true",
         "visibility": false,
         "topics": [
           {
             "description": "An electronics retailer's app and website were due for an update. Sales were going up the roof, and customers were getting a little antsy with the old-school interface, begging for something that would make their shopping experience easier and more engaging. The owners weren't afraid to try a new style or to break some rules—they had been in business for years and had seen trends come and go without losing any of their loyal customers.",
-            "image": "/static/media/p1.c697296bee7118f74a89.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p1.png.png?raw=true",
             "position": "bottom"
           },
           {
             "description": "\n          Input from focus groups showed that people liked the store's selection of big-ticket items, but they also wanted to be able to find what they needed quickly. They wanted a shop that offered the best deals on electronics, with the best quality products. They wanted to have access to knowledgeable salespeople who could answer any questions about products or help them choose one that was right for them.\n          ",
-            "image": "/static/media/p2.86be2b2a962adc314f5c.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p2.png.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/p3.143cb849a5219267d33d.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p3.png.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/p4.2b319a3d46ab1c0de519.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p4.png.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/p5.72405c1bc8249a7c51c9.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/p5.png.png?raw=true",
             "position": "bottom"
           }
         ]
@@ -127,67 +127,67 @@
     {
       "id": 2,
       "name": "Car-Hub",
-      "image": "/static/media/carHub.75d09d48a14a2008416c.png",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carHub.png?raw=true",
       "details": {
-        "image": "/static/media/carhub-1.eb6c2e1a3a7542ff45a3.png",
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carHub.png?raw=true",
         "visibility": false,
         "topics": [
           {
             "topic": "The Task",
             "description": "Re-designing application and website to be cleaner and modern but still keeping the same design elements.",
-            "image": "/static/media/carhub-1.eb6c2e1a3a7542ff45a3.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-1.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "Inspiration + Process",
             "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quia! Quasi, quisquam",
-            "image": "/static/media/carhub-2.ce2ae78091dd72c128ec.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-2.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "My Role and Responsibilities",
             "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quia! Quasi, quisquam.",
-            "image": "/static/media/carhub-3.69c113f08dcbd2779473.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-3.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-4.ce2ae78091dd72c128ec.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-4.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-5.aaaa6377b8a520a2e198.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-5.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-6.bf30c6c04bf401919be6.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-6.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-7.484b8ae3f4f570156d30.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-7.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-8.d8267a75ccc0a5e24daa.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-8.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-9.32c4cd92bf7fa3f95685.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-9.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-10.88189330ee674390ae85.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-10.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-11.548b5176c56834e8b0c4.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-11.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-12.548b5176c56834e8b0c4.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-12.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/carhub-13.3becc961d89350717804.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-13.png?raw=true",
             "position": "bottom"
           }
         ]
@@ -196,9 +196,9 @@
     {
       "id": 3,
       "name": "Gym-Hub",
-      "image": "/static/media/gym.e1c7aa98b658178be37a.png",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym.png?raw=true",
       "details": {
-        "image": "/static/media/Class.4026835f6817a5a276ed.png",
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym.png?raw=true",
         "visibility": false,
         "topics": [
           {
@@ -208,74 +208,75 @@
           {
             "topic": "Spinning Cycle",
             "description": "Select any of the spinning cycle classes and get started with the trainer you prefer.",
-            "image": "/static/media/SpinningCycle.13c8baa8b09569ab8ba7.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/SpinningCycle.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "Personal Training",
             "description": "Choose your own personal trainer depending on your gender",
-            "image": "/static/media/PersonalTraining.c469bc04c293f3e89b2b.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/PersonalTraining.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "Packages",
             "description": "Purchase a package and with exciting offers",
-            "image": "/static/media/Packages.fe3793abc87551baa4f9.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/Packages.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "Class",
             "description": "Zumba, Yoga, Pilates, Kickboxing, and more classes to choose from.",
-            "image": "/static/media/Class.4026835f6817a5a276ed.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/Class.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "Events",
             "description": "Join our events alone or with a friend and get the best of the best.",
-            "image": "/static/media/Events.51893554858c49483de4.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/Events.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "Miscellaneous",
             "description": "Change your email, password, and more",
-            "image": "/static/media/Miscellaneous.13a6348ad0c67cd150f4.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/Miscellaneous.png?raw=true",
             "position": "bottom"
           },
           {
-            "description": "Designs for app"
+            "description": "Designs for app",
+            "position": "none"
           },
           {
             "topic": "Miscellaneous",
             "description": "Change your email, password, and more",
-            "image": "/static/media/gym0.3ae7c4dac5aa5713c4e2.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym0.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gym1.28b3b3ad0b119f4c2541.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym1.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gym2.08e686b07bb4e189d6fa.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym2.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gym3.7f036e3ecf6a2fac8bd5.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym3.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gym4.1398a8c6f85060f6bf49.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym4.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gym5.d266fde94555a2bc7504.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym5.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gym6.8fcef60ea0a775480a6b.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym6.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gym7.848bd6aacb6750f67a77.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym7.png?raw=true",
             "position": "bottom"
           }
         ]
@@ -284,33 +285,33 @@
     {
       "id": 4,
       "name": "Gold-eCommerce",
-      "image": "/static/media/gold.d224b61752bfec7cdee9.png",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
       "details": {
-        "image": "/static/media/Class.4026835f6817a5a276ed.png",
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
         "visibility": false,
         "topics": [
           {
-            "image": "/static/media/gold1.d9acaa2c48971d62a6ff.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold1.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gold2.c687217b1e02ca8d7f5d.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold2.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gold3.fc3f1fab031520d2899e.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold3.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gold4.968981b33af6da2f39bf.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold4.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gold5.bcc532931923b9a85d2f.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold5.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/gold6.c237b280304d88dbb796.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold6.png?raw=true",
             "position": "bottom"
           }
         ]
@@ -319,55 +320,55 @@
     {
       "id": 5,
       "name": "Football-Trivia",
-      "image": "/static/media/football.c8058951f86f44ac7c7b.png",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football.png?raw=true",
       "details": {
-        "image": "/static/media/football1.4a150b26a54ad8f5aec6.png",
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football.png?raw=true",
         "visibility": false,
         "topics": [
           {
             "topic": "The Task",
             "description": "Re-designing application and website to be cleaner and modern but still keeping the same design elements.",
-            "image": "/static/media/football1.4a150b26a54ad8f5aec6.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football1.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "Inspiration + Process",
             "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quia! Quasi, quisquam",
-            "image": "/static/media/football2.4090630b554fb9dbfbaa.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football2.png?raw=true",
             "position": "bottom"
           },
           {
             "topic": "My Role and Responsibilities",
             "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quia! Quasi, quisquam.",
-            "image": "/static/media/football3.48558776e9d52f7dc6f9.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football3.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/football4.81e9ace5f32e150f31b9.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football4.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/football5.a282865d74faf3fdeb12.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football5.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/football6.aae954387506599e1002.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football6.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/football7.3f18f82cac00f76a8fb1.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football7.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/football8.4c824794e72ecb0ecbdf.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football8.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/football9.9ecb5eec3ca3a584de0f.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football9.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/football10.050205a92f07e410bb7b.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football10.png?raw=true",
             "position": "bottom"
           }
         ]
@@ -376,33 +377,33 @@
     {
       "id": 6,
       "name": "eCommerce",
-      "image": "/static/media/ecom.8e4861c1bbc77111c5eb.png",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom.png?raw=true",
       "details": {
-        "image": "/static/media/Class.4026835f6817a5a276ed.png",
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom.png?raw=true",
         "visibility": false,
         "topics": [
           {
-            "image": "/static/media/ecom1.9b801252689d36badf80.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom1.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecom2.c9ac37c442aba07b6230.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom2.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecom3.b183f5440a64482f5bd7.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom3.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecom4.1e4be69ede291a1b337e.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom4.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecom5.06f6c020ce0f060e2826.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom5.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecom6.a6616bce24466d0003bd.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom6.png?raw=true",
             "position": "bottom"
           }
         ]
@@ -411,33 +412,33 @@
     {
       "id": 7,
       "name": "eCommerce Website",
-      "image": "/static/media/ecomWeb.ef11844808335ef0de4e.png",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
       "details": {
-        "image": "/static/media/Class.4026835f6817a5a276ed.png",
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
         "visibility": false,
         "topics": [
           {
-            "image": "/static/media/ecomWeb1.74d9e51da7f68831fea5.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb1.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecomWeb2.c35d6557f3939631730a.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb2.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecomWeb3.279eb792299ab0c7c735.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb3.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecomWeb4.f4bfb176a15c9fac2095.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb4.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecomWeb5.0e65f223366fbab08aa8.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb5.png?raw=true",
             "position": "bottom"
           },
           {
-            "image": "/static/media/ecomWeb6.6cc5cad4ed1e9bb61266.png",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb6.png?raw=true",
             "position": "bottom"
           }
         ]
