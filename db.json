@@ -221,6 +221,10 @@
         "visibility": false,
         "topics": [
           {
+            "topic": "After you are enlisted as a member of the gym, this application allows you to schedule and/or book spinning classes, personal trainers, and any other desired activities that your gym offers - all in the palm of your hands! This flexible and accessible approach that this application offers, will help you organize your gym time and preferences to your convenience. No more lines, calls, or wait times! Scheduling ahead of time will be your best option to never miss a gym day again.",
+            "position": "none"
+          },
+          {
             "description": "Wireframe of the app",
             "position": "none"
           },
@@ -261,12 +265,10 @@
             "position": "bottom"
           },
           {
-            "description": "Designs for app",
+            "topic": "Designs for app",
             "position": "none"
           },
           {
-            "topic": "Miscellaneous",
-            "description": "Change your email, password, and more",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym/gym0.png?raw=true",
             "position": "bottom"
           },
