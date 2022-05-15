@@ -149,7 +149,7 @@
             "position": "bottom"
           },
           {
-            "description":"It'll show them pictures, give them information on fuel efficiency, show them comparisons between models, and even let them know if there are any cars waiting for them nearby. All the user has to do is click see at home on the vehicle he wants to test drive, and dealership will send over a tow truck so that he can take it for a spin—no matter how far away it is from the dealership! The driver won't even have to worry about returning it because the dealership will take it back too.",
+            "description": "It'll show them pictures, give them information on fuel efficiency, show them comparisons between models, and even let them know if there are any cars waiting for them nearby. All the user has to do is click see at home on the vehicle he wants to test drive, and dealership will send over a tow truck so that he can take it for a spin—no matter how far away it is from the dealership! The driver won't even have to worry about returning it because the dealership will take it back too.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-4.png?raw=true",
             "position": "bottom"
           },
@@ -312,6 +312,7 @@
         "visibility": false,
         "topics": [
           {
+            "description": "The character and beauty of the antique, vintage and antique jewellery is what makes it so appealing to customers. The owner wanted to give customers an easy way to access the vast collection and bring this beautiful treasure into their homes. He created an app that allows customers to buy from his shop from anywhere at any time. Customers can simply use the app to discover a piece of jewellery that's perfect for them, purchase it, and have it delivered right to their door.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold1.png?raw=true",
             "position": "bottom"
           },
@@ -347,20 +348,15 @@
         "visibility": false,
         "topics": [
           {
-            "topic": "The Task",
-            "description": "Re-designing application and website to be cleaner and modern but still keeping the same design elements.",
+            "description": "Sitting around with friends watching football and arguing about who knows more about football is fun, but it can be difficult to keep track of whose team is winning, who's winning the trivia and by how much. There are plenty of apps out there that tell you the scores, but what if you want a prediction app that tells you which team will be in the lead at any time? In response to this need, our client came to us with a great idea: make an all-in-one app combining scores, statistics and trivia that allows users to predict who will be in the lead at any given time.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football1.png?raw=true",
             "position": "bottom"
           },
           {
-            "topic": "Inspiration + Process",
-            "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quia! Quasi, quisquam",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football2.png?raw=true",
             "position": "bottom"
           },
           {
-            "topic": "My Role and Responsibilities",
-            "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quia! Quasi, quisquam.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football3.png?raw=true",
             "position": "bottom"
           },
@@ -404,6 +400,7 @@
         "visibility": false,
         "topics": [
           {
+            "description": "With ecommerce booming, the world is becoming a smaller place in terms of trade. We wanted to take this thought one step further and bring the shopping experience to you, the customer. With multiple vendors and products at your fingertips, you can shop for everything from electronics to clothes to jewelry and receive it at your doorstep. The app will organize items by category, brand or price range so that you can find exactly what you're looking for with just a few swipes. The app will also be able to tell if an item is in stock or not so that you won't waste time on products that are no longer available.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom1.png?raw=true",
             "position": "bottom"
           },
@@ -439,6 +436,7 @@
         "visibility": false,
         "topics": [
           {
+            "description": "With ecommerce booming, the world is becoming a smaller place in terms of trade. We wanted to take this thought one step further and bring the shopping experience to you, the customer. With multiple vendors and products at your fingertips, you can shop for everything from electronics to clothes to jewelry and receive it at your doorstep. The app will organize items by category, brand or price range so that you can find exactly what you're looking for with just a few swipes. The app will also be able to tell if an item is in stock or not so that you won't waste time on products that are no longer available.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb1.png?raw=true",
             "position": "bottom"
           },
