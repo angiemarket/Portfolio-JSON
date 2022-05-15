@@ -149,7 +149,7 @@
             "position": "bottom"
           },
           {
-            "description":"It'll show them pictures, give them information on fuel efficiency, show them comparisons between models, and even let them know if there are any cars waiting for them nearby. All the user has to do is click "see at home" on the vehicle he wants to test drive, and dealership will send over a tow truck so that he can take it for a spin—no matter how far away it is from the dealership! The driver won't even have to worry about returning it because the dealership will take it back too.",
+            "description":"It'll show them pictures, give them information on fuel efficiency, show them comparisons between models, and even let them know if there are any cars waiting for them nearby. All the user has to do is click see at home on the vehicle he wants to test drive, and dealership will send over a tow truck so that he can take it for a spin—no matter how far away it is from the dealership! The driver won't even have to worry about returning it because the dealership will take it back too.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-4.png?raw=true",
             "position": "bottom"
           },
