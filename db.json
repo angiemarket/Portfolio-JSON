@@ -134,21 +134,22 @@
         "topics": [
           {
             "topic": "Your next car is waiting for you.",
-            "description": "If you're like most people, you dread going to the dealership when you need to buy a new car. You worry that there aren't any cars in your price range, or that they won't have a car to fit your needs. Or maybe you just hate the whole experience of going into a dealership and dealing with the salespeople. It's no wonder people put off buying a new car until they absolutely have to…or don't buy one at all.",
+            "description": "You can even choose which one you want to see.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-1.png?raw=true",
             "position": "bottom"
           },
           {
-            "topic": "This app will let users browse cars online and decide which one they want to see right then and there, without having to go into the dealership at all.",
+            "description": "If you're like most people, you dread going to the dealership when you need to buy a new car. You worry that there aren't any cars in your price range, or that they won't have a car to fit your needs. Maybe you do not even like the whole experience of going into a dealership and dealing with the pressure they put on you. It's no wonder people put off buying a new car until they absolutely have to… Or don't buy one at all.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-2.png?raw=true",
             "position": "bottom"
           },
           {
-            "description": "It'll show them photos, give them information on fuel efficiency, show them comparisons between models, and even let them know if there are any cars waiting for them nearby. All the user has to do is click see at home on the vehicle he wants to test drive, and dealership will send over a tow truck so that he can take it for a spin—no matter how far away it is from the dealership! The driver won't even have to worry about returning it. the dealership will take it back too.",
+            "description": "This app will let users browse cars online and decide which one they want to see, right then and there, without having to go into the dealership at all.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-3.png?raw=true",
             "position": "bottom"
           },
           {
+            "description":"It'll show them pictures, give them information on fuel efficiency, show them comparisons between models, and even let them know if there are any cars waiting for them nearby. All the user has to do is click "see at home" on the vehicle he wants to test drive, and dealership will send over a tow truck so that he can take it for a spin—no matter how far away it is from the dealership! The driver won't even have to worry about returning it because the dealership will take it back too.",
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-4.png?raw=true",
             "position": "bottom"
           },
@@ -186,6 +187,26 @@
           },
           {
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/carhub-13.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/flow1.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/flow2.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/flow3.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/flow4.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carhub/flow5.png?raw=true",
             "position": "bottom"
           }
         ]
