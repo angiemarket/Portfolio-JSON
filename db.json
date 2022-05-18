@@ -487,6 +487,42 @@
           }
         ]
       }
+    },
+    {
+      "id": 8,
+      "name": "Budget Car",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetcar.png?raw=true",
+      "details": {
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
+        "visibility": false,
+        "topics": [
+          {
+            "description": " Budget is a well-known brand, located in many countries around the world. The Kuwait branch needed to have its own custom-made website.",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget1.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget2.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget3.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget4.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget5.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget6.png?raw=true",
+            "position": "bottom"
+          }
+        ]
+      }
     }
   ]
 }
