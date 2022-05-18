@@ -25,9 +25,37 @@
   },
   "experience": [
     {
+      "designation": "Frontend Developer",
+      "company": "CreativityIT - Kuwait City",
+      "duration": "2019 - 2021",
+      "list": [
+        {
+          "text": "Determining the structure and design of web pages."
+        },
+        {
+          "text": "Developing features to enhance the user experience."
+        },
+        {
+          "text": "Striking a balance between functional and aesthetic design."
+        },
+        {
+          "text": "Building reusable code for future use."
+        },
+        {
+          "text": "Optimizing web pages for maximum speed and scalability."
+        },
+        {
+          "text": "Maintaining brand consistency throughout the design."
+        },
+        {
+          "text": "Coordinating with other team members to ensure timely completion of projects."
+        }
+      ]
+    },
+    {
       "designation": "UI/UX Designer",
       "company": "CreativityIT - Kuwait City",
-      "duration": "2019 - 2022",
+      "duration": "2019 - 2021",
       "list": [
         {
           "text": "Created user-centered designs by understanding business requirements, and user feedback"
@@ -55,7 +83,7 @@
     {
       "designation": "Print Designer",
       "company": "View Design - Kuwait City",
-      "duration": "2017 - 2019",
+      "duration": "2018 - 2019",
       "list": [
         {
           "text": "Researching concepts, designs, reference material, and similar work."
