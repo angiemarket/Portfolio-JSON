@@ -523,6 +523,78 @@
           }
         ]
       }
+    },
+    {
+      "id": 9,
+      "name": "Mealz",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz.png?raw=true",
+      "details": {
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
+        "visibility": false,
+        "topics": [
+          {
+            "description": " Mealz is the best meal planning app on the market. This application provides you with healthy meals of your day like breakfast, lunch and dinner. These meals are prepared by chef personally for you depending on if you want to gain weight or lose weight or build muscle. Mealz is a great tool for anyone who wants to stay healthy and fit. It can be used by people who are looking to lose weight or just those that want to eat healthier. The application is designed to help you make better choices when it comes to eating food so that you can live a healthier lifestyle long term.",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz1.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz2.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz3.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz4.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz5.png?raw=true",
+            "position": "bottom"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "Mealz Web",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb.png?raw=true",
+      "details": {
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
+        "visibility": false,
+        "topics": [
+          {
+            "description": " Mealz is the best meal planning app on the market. This application provides you with healthy meals of your day like breakfast, lunch and dinner. These meals are prepared by chef personally for you depending on if you want to gain weight or lose weight or build muscle. Mealz is a great tool for anyone who wants to stay healthy and fit. It can be used by people who are looking to lose weight or just those that want to eat healthier. The application is designed to help you make better choices when it comes to eating food so that you can live a healthier lifestyle long term.",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb1.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb2.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb3.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb4.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb5.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb6.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb7.png?raw=true",
+            "position": "bottom"
+          }
+        ]
+      }
     }
   ]
 }
