@@ -6,83 +6,137 @@
     "role": [
       {
         "name": "Print Designer",
-        "description": "Conceptualizing designs, preparing mockups, and creating final designs for printing."
+        "description": "My professional journey commenced as a Print Designer, where I developed a keen eye for detail and aesthetics. Here, I mastered the art of conceptualizing designs, preparing intricate mockups, and crafting final designs for print, laying the groundwork for my design proficiency."
       },
       {
         "name": "UI/UX Designer",
-        "description": "Creating user-friendly interfaces and experiences for web and mobile applications."
+        "description": "Elevating my design skills, I transitioned into the role of a UI/UX Designer. This phase was instrumental in shaping my approach to digital spaces, where I focused on creating intuitive, user-friendly interfaces and enriching user experiences for web and mobile applications."
       },
       {
         "name": "Web Developer",
-        "description": "Developing applications with the best practices in mind and delivering high-quality applications."
+        "description": "Further expanding my technical repertoire, I embraced the challenges of being a Web Developer. In this role, I applied my design insights to the practical aspects of web development, focusing on coding robust applications and integrating best practices to ensure high-quality deliverables."
+      },
+      {
+        "name": "Software Engineer",
+        "description": "My journey has now evolved to the role of a Software Engineer, where I amalgamate my experiences in design, user experience, and development. In this capacity, I'm dedicated to building sophisticated software solutions, leading initiatives, and continuously advancing my technical skills to create impactful and innovative applications."
+      },
+      {
+        "name": "Senior Software Engineer",
+        "description": "As a Senior Software Engineer, I bring a blend of expertise from roles at CreativityIT, Neosoft, and Layopay, driving the creation of robust software solutions. My background in design, UX, and development underpins my approach to innovative problem-solving and development of impactful applications. I'm committed to technical excellence, mentoring, and pushing the boundaries of technology with a focus on strategic advancement and continuous growth."
       }
     ]
   },
   "about": {
-    "description": "After completing my Diploma in Computer Science, I began working as a Graphic Designer.\n\n  However, I soon realized that what I really wanted to do was work as Software Engineer, so I started learning from online seminars. During my studies, I learned to code HTML, CSS, SCSS, JavaScript, TypeScript, Ionic, Angular — all of which were essential to my eventual success as a Web Application Developer.\n  \n  Since then, I have been able to further expand my skills on my own and have learned React, React Native, Express, Redux, Mobx State Management, all in efforts to becoming a better Developer.\n  \n  My top priority is exceeding my biggest expectations and focusing on growing to be a Software Engineer.",
+    "description": "After completing my Diploma in Computer Science, my journey in design and development commenced. My initial role as a Print Designer was instrumental in refining my attention to detail, where I mastered conceptualizing, creating mockups, and finalizing designs for print. This phase laid a strong foundation in design proficiency. Transitioning into a UI/UX Designer role, I significantly influenced my approach to digital spaces. In this role, I focused on creating user-friendly interfaces and enhancing user experiences for web and mobile applications. This career phase bridged the gap between aesthetics and functionality, sharpening my skills in designing visually appealing and seamless experiences. My career progression led me into Web Development, where I applied my design insights to build robust applications and adhered to best practices. This role expanded my technical skills and deepened my understanding of the intricate relationship between front-end design and back-end functionality. As a Software Engineer today, I integrate my diverse experiences in design, user experience, and development. I am committed to building sophisticated software solutions, leading initiatives, and advancing my technical skills. My goal is to create impactful and innovative applications, constantly pushing beyond my limits to grow further in my software engineering career. Currently, I am delving into the exciting world of Artificial Intelligence, working on projects involving Python and Flutter. These projects have broadened my technical horizons and fueled my passion for developing innovative solutions. I am actively seeking professional opportunities that present new challenges and leverage my comprehensive skill set as a Software Engineer.",
     "useImage": false,
     "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=60"
   },
   "experience": [
     {
-      "designation": "Frontend Developer",
-      "company": "CreativityIT - Kuwait City",
-      "duration": "2019 - 2021",
+      "designation": "Senior Software Engineer",
+      "company": "Layopay",
+      "duration": "2023-2024",
       "list": [
         {
-          "text": "Designed and Developed over 20+ Ionic v5 Cordova Hybrid Mobile Applications using Angular, Typescript, Node.js, HTML5, SCSS."
+          "text": "Directed the development of a point-of-sale (POS) application, leveraging Flutter and Firebase to innovate payment solutions and enhance user experience."
         },
         {
-          "text": "Used Material UI, React Native Paper,Redux Saga, Mobx State Management, RxJS, Media Query, Flashlist, React Native Action Sheet, KeyboardAvoidingView, React Native Camera, and many more plugins while building custom applications in React Native."
+          "text": "Architected scalable solutions across web and Sunmi devices, focusing on responsive design and cross-platform compatibility."
         },
         {
-          "text": "Determining the structure and design of web pages."
+          "text": "Managed full lifecycle of the POS application development, ensuring the delivery of robust and scalable solutions."
         },
         {
-          "text": "Developing features to enhance the user experience."
+          "text": "Employed MVVC architectural pattern to enhance code modularity and maintainability, ensuring best practices in software design."
         },
         {
-          "text": "Striking a balance between functional and aesthetic design."
+          "text": "Facilitated cross-platform application development, optimizing performance and user experience on web and mobile platforms."
         },
         {
-          "text": "Building reusable code for future use."
+          "text": "Integrated and managed backend services using Firebase, improving application's real-time data processing and operational efficiency."
         },
         {
-          "text": "Optimizing web pages for maximum speed and scalability."
+          "text": "Evaluated and integrated third-party Flutter packages, enhancing application features and functionality while maintaining system performance."
         },
         {
-          "text": "Maintaining brand consistency throughout the design."
+          "text": "Advanced personal expertise and technical skills through continuous learning and application of new technologies and methodologies in software development."
+        }
+      ]
+    },    
+    {
+      "designation": "Software Engineer",
+      "company": "Neosoft - Pune",
+      "duration": "2022-2023",
+      "list": [
+        {
+          "text": "Spearheaded the development of React Native applications, starting from the ground up to deliver fully-functional and robust solutions, particularly focusing on projects that were previously incomplete."
         },
         {
-          "text": "Coordinating with other team members to ensure timely completion of projects."
+          "text": "Led the technical efforts in updating and optimizing existing Cordova applications, preparing them for seamless integration with Intune, and ensuring compliance with work profile app standards for enhanced data privacy and security."
+        },
+        {
+          "text": "Played a pivotal role in cross-functional team collaborations, effectively aligning app development strategies with overarching business goals and user needs."
+        },
+        {
+          "text": "Oversaw the entire app development lifecycle, from conceptualization and design to deployment and ongoing support, ensuring a consistent and high-quality user experience."
+        },
+        {
+          "text": "Implemented and enforced best coding practices within the development team, upholding high standards of quality and efficiency in all aspects of application development."
+        },
+        {
+          "text": "Contributed to the strategic planning and execution of project roadmaps, often dealing with complex requirements and tight deadlines."
+        },
+        {
+          "text": "Actively engaged in problem-solving and technical decision-making, demonstrating advanced skills in both React Native and Cordova platform development."
+        },
+        {
+          "text": "Facilitated knowledge sharing and mentoring among team members, fostering a collaborative and growth-oriented work environment."
         }
       ]
     },
     {
-      "designation": "UI/UX Designer",
+      "designation": "Frontend Developer / UI/UX Designer",
       "company": "CreativityIT - Kuwait City",
       "duration": "2019 - 2021",
       "list": [
         {
-          "text": "Created user-centered designs by understanding business requirements, and user feedback"
+          "text": "Simultaneously managed roles in Frontend Development and UI/UX Design, delivering comprehensive design and development solutions."
         },
         {
-          "text": "Created user flows, wireframes, prototypes and mockups"
+          "text": "Designed and developed over 20+ Ionic v5 Cordova Hybrid Mobile Applications using Angular, Typescript, Node.js, HTML5, SCSS."
         },
         {
-          "text": "Translating requirements into style guides, design systems, design patterns and attractive user interfaces"
+          "text": "Utilized Material UI, React Native Paper, Redux Saga, Mobx State Management, RxJS, Media Query, Flashlist, React Native Action Sheet, KeyboardAvoidingView, React Native Camera, and various other plugins in React Native development."
         },
         {
-          "text": "Designing UI elements such as input controls, navigational components and informational components"
+          "text": "Played a key role in determining the structure and design of web pages, ensuring user-friendly and aesthetically pleasing interfaces."
         },
         {
-          "text": "Created original graphic designs (e.g. images, sketches and tables)"
+          "text": "Focused on developing features to enhance the overall user experience, incorporating user feedback into design decisions."
         },
         {
-          "text": "Identifying and troubleshooting UX problems (e.g. responsiveness)"
+          "text": "Maintained a balance between functional and aesthetic design, building reusable code for future use."
         },
         {
-          "text": "Collaborating effectively with product, engineering, and management teams"
+          "text": "Optimized web pages for maximum speed and scalability, adhering to best coding practices."
+        },
+        {
+          "text": "Ensured brand consistency throughout all designs, overseeing the design process from conception to final product."
+        },
+        {
+          "text": "Collaborated effectively with cross-functional teams, including product, engineering, and management, to ensure timely completion of projects."
+        },
+        {
+          "text": "Created user-centered designs, including user flows, wireframes, prototypes, and mockups, based on business requirements and user feedback."
+        },
+        {
+          "text": "Translated requirements into style guides, design systems, design patterns, and attractive user interfaces."
+        },
+        {
+          "text": "Designed various UI elements such as input controls, navigational components, and informational components."
+        },
+        {
+          "text": "Created original graphic designs and identified and troubleshooted UX problems, such as responsiveness issues."
         }
       ]
     },
