@@ -29,9 +29,9 @@
   },
   "experience": [
     {
-      "designation": "Senior Software Engineer",
-      "company": "Layopay",
-      "duration": "2023-2024",
+      "designation": "Web Application Developer",
+      "company": "TECKpert",
+      "duration": "2021-2023",
       "list": [
         {
           "text": "Directed the development of a point-of-sale (POS) application, leveraging Flutter and Firebase to innovate payment solutions and enhance user experience."
@@ -60,9 +60,9 @@
       ]
     },    
     {
-      "designation": "Software Engineer",
-      "company": "Neosoft - Pune",
-      "duration": "2022-2023",
+      "designation": "Web Developer",
+      "company": "Karen Sutton Hair Studio",
+      "duration": "2020",
       "list": [
         {
           "text": "Spearheaded the development of React Native applications, starting from the ground up to deliver fully-functional and robust solutions, particularly focusing on projects that were previously incomplete."
@@ -87,86 +87,6 @@
         },
         {
           "text": "Facilitated knowledge sharing and mentoring among team members, fostering a collaborative and growth-oriented work environment."
-        }
-      ]
-    },
-    {
-      "designation": "Frontend Developer / UI/UX Designer",
-      "company": "CreativityIT - Kuwait City",
-      "duration": "2019 - 2021",
-      "list": [
-        {
-          "text": "Simultaneously managed roles in Frontend Development and UI/UX Design, delivering comprehensive design and development solutions."
-        },
-        {
-          "text": "Designed and developed over 20+ Ionic v5 Cordova Hybrid Mobile Applications using Angular, Typescript, Node.js, HTML5, SCSS."
-        },
-        {
-          "text": "Utilized Material UI, React Native Paper, Redux Saga, Mobx State Management, RxJS, Media Query, Flashlist, React Native Action Sheet, KeyboardAvoidingView, React Native Camera, and various other plugins in React Native development."
-        },
-        {
-          "text": "Played a key role in determining the structure and design of web pages, ensuring user-friendly and aesthetically pleasing interfaces."
-        },
-        {
-          "text": "Focused on developing features to enhance the overall user experience, incorporating user feedback into design decisions."
-        },
-        {
-          "text": "Maintained a balance between functional and aesthetic design, building reusable code for future use."
-        },
-        {
-          "text": "Optimized web pages for maximum speed and scalability, adhering to best coding practices."
-        },
-        {
-          "text": "Ensured brand consistency throughout all designs, overseeing the design process from conception to final product."
-        },
-        {
-          "text": "Collaborated effectively with cross-functional teams, including product, engineering, and management, to ensure timely completion of projects."
-        },
-        {
-          "text": "Created user-centered designs, including user flows, wireframes, prototypes, and mockups, based on business requirements and user feedback."
-        },
-        {
-          "text": "Translated requirements into style guides, design systems, design patterns, and attractive user interfaces."
-        },
-        {
-          "text": "Designed various UI elements such as input controls, navigational components, and informational components."
-        },
-        {
-          "text": "Created original graphic designs and identified and troubleshooted UX problems, such as responsiveness issues."
-        }
-      ]
-    },
-    {
-      "designation": "Print Designer",
-      "company": "View Design - Kuwait City",
-      "duration": "2018 - 2019",
-      "list": [
-        {
-          "text": "Researching concepts, designs, reference material, and similar work."
-        },
-        {
-          "text": "Rendering and presenting design mockups for revision and feedback."
-        },
-        {
-          "text": "Implementing feedback revision and creating final designs for printing."
-        },
-        {
-          "text": "Reviewing and proofreading designs to ensure that copy, layout, and dimensions are print-ready."
-        },
-        {
-          "text": "Overseeing the printing process to ensure color quality and consistency."
-        },
-        {
-          "text": "Managing the timelines and workflow of print design projects."
-        },
-        {
-          "text": "Communicating updates, feedback, and issues with the clients and managers."
-        },
-        {
-          "text": "Maintaining the brand's consistency across all designs and printed materials."
-        },
-        {
-          "text": "Keeping up to date with the latest design trends, techniques, and printing standards."
         }
       ]
     }
