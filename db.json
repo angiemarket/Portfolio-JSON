@@ -34,29 +34,35 @@
       "duration": "2021-2023",
       "list": [
         {
-          "text": "Directed the development of a point-of-sale (POS) application, leveraging Flutter and Firebase to innovate payment solutions and enhance user experience."
+          "text": "Developed new features and enhancements for the application using React,  Tailwind,  and AWS, such as,  table filtering, and sorting, file uploading, pagination, resume parser, data manipulation, etc."
         },
         {
-          "text": "Architected scalable solutions across web and Sunmi devices, focusing on responsive design and cross-platform compatibility."
+          "text": "Implemented REST APIs to connect the application to the back-end services."
         },
         {
-          "text": "Managed full lifecycle of the POS application development, ensuring the delivery of robust and scalable solutions."
+          "text": "Optimized database queries using GraphQL."
         },
         {
-          "text": "Employed MVVC architectural pattern to enhance code modularity and maintainability, ensuring best practices in software design."
+          "text": "Delivered regular updates in an Agile (Scrum) team."
         },
         {
-          "text": "Facilitated cross-platform application development, optimizing performance and user experience on web and mobile platforms."
+          "text": "Participated in the entire SDLC including requirement analysis, development, and system integration testing."
         },
         {
-          "text": "Integrated and managed backend services using Firebase, improving application's real-time data processing and operational efficiency."
+          "text": "Optimized application performance and reliability by enhancing features and fixing bugs."
         },
         {
-          "text": "Evaluated and integrated third-party Flutter packages, enhancing application features and functionality while maintaining system performance."
+          "text": "Evaluated and integrated third-party packages, enhancing application features and functionality while maintaining system performance."
         },
         {
           "text": "Advanced personal expertise and technical skills through continuous learning and application of new technologies and methodologies in software development."
-        }
+        },
+        {
+          "text": "Spearheaded the development of a React Native mobile application, starting from the ground up to deliver fully-functional and robust solutions."
+        },
+        {
+          "text": "Oversaw the entire app development lifecycle, from conceptualization and design to deployment and ongoing support, ensuring a consistent and high-quality user experience."
+        },
       ]
     },    
     {
@@ -65,28 +71,19 @@
       "duration": "2020",
       "list": [
         {
-          "text": "Spearheaded the development of React Native applications, starting from the ground up to deliver fully-functional and robust solutions, particularly focusing on projects that were previously incomplete."
+          "text": "Managing the creative process from concept to completion, while engaging with clients for suggestions and feedback throughout development and implementation processes."
         },
         {
-          "text": "Led the technical efforts in updating and optimizing existing Cordova applications, preparing them for seamless integration with Intune, and ensuring compliance with work profile app standards for enhanced data privacy and security."
+          "text": "Diagnosing, troubleshooting, and resolving issues with website and cloud server."
         },
         {
-          "text": "Played a pivotal role in cross-functional team collaborations, effectively aligning app development strategies with overarching business goals and user needs."
+          "text": "Coding design mockups into pixel perfect, tableless, cross-browser compatible, search engine friendly websites via HTML5, CSS3/Bootstrap, and JS/jQuery."
         },
         {
-          "text": "Oversaw the entire app development lifecycle, from conceptualization and design to deployment and ongoing support, ensuring a consistent and high-quality user experience."
+          "text": "Oversaw the entire web development lifecycle, from conceptualization and design to deployment and ongoing support, ensuring a consistent and high-quality user experience."
         },
         {
-          "text": "Implemented and enforced best coding practices within the development team, upholding high standards of quality and efficiency in all aspects of application development."
-        },
-        {
-          "text": "Contributed to the strategic planning and execution of project roadmaps, often dealing with complex requirements and tight deadlines."
-        },
-        {
-          "text": "Actively engaged in problem-solving and technical decision-making, demonstrating advanced skills in both React Native and Cordova platform development."
-        },
-        {
-          "text": "Facilitated knowledge sharing and mentoring among team members, fostering a collaborative and growth-oriented work environment."
+          "text": "Setup domains/email accounts and the best-fitting hosting providers for each website in accordance with their specific technical needs."
         }
       ]
     }
