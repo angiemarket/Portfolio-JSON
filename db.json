@@ -6,7 +6,7 @@
     "role": [
       {
         "name": "UI/UX Designer",
-        "description": "Elevating my design skills, I transitioned into the role of a UI/UX Designer. This phase was instrumental in shaping my approach to digital spaces, where I focused on creating intuitive, user-friendly interfaces and enriching user experiences for web and mobile applications."
+        "description": "Elevating my design skills as a UI/UX Designer was instrumental in shaping my approach to digital spaces, where I focused on creating intuitive, user-friendly interfaces and enriching user experiences for web and mobile applications."
       },
       {
         "name": "Web Developer",
@@ -94,7 +94,7 @@
   "projects": [
     {
       "id": 1,
-      "name": "Tech-Hub",
+      "name": "TECKpert Web Application",
       "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/techHub.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/techHub.png?raw=true",
@@ -127,7 +127,7 @@
     },
     {
       "id": 2,
-      "name": "Car-Hub",
+      "name": "TECKpert Mobile App",
       "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carHub.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carHub.png?raw=true",
@@ -215,7 +215,7 @@
     },
     {
       "id": 3,
-      "name": "Gym-Hub",
+      "name": "Longbow",
       "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym.png?raw=true",
@@ -306,7 +306,7 @@
     },
     {
       "id": 4,
-      "name": "Gold-eCommerce",
+      "name": "Karen Sutton Hair Studio",
       "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
@@ -335,238 +335,6 @@
           },
           {
             "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold6.png?raw=true",
-            "position": "bottom"
-          }
-        ]
-      }
-    },
-    {
-      "id": 5,
-      "name": "Football-Trivia",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football.png?raw=true",
-      "details": {
-        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football.png?raw=true",
-        "visibility": false,
-        "topics": [
-          {
-            "description": "Sitting around with friends watching football and arguing about who knows more about football is fun, but it can be difficult to keep track of whose team is winning, who's winning the trivia and by how much. There are plenty of apps out there that tell you the scores, but what if you want a prediction app that tells you which team will be in the lead at any time? In response to this need, our client came to us with a great idea: make an all-in-one app combining scores, statistics and trivia that allows users to predict who will be in the lead at any given time.",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football1.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football2.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football3.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football4.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football5.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football6.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football7.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football8.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football9.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/football/football10.png?raw=true",
-            "position": "bottom"
-          }
-        ]
-      }
-    },
-    {
-      "id": 6,
-      "name": "eCommerce",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom.png?raw=true",
-      "details": {
-        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom.png?raw=true",
-        "visibility": false,
-        "topics": [
-          {
-            "description": "With ecommerce booming, the world is becoming a smaller place in terms of trade. We wanted to take this thought one step further and bring the shopping experience to you, the customer. With multiple vendors and products at your fingertips, you can shop for everything from electronics to clothes to jewelry and receive it at your doorstep. The app will organize items by category, brand or price range so that you can find exactly what you're looking for with just a few swipes. The app will also be able to tell if an item is in stock or not so that you won't waste time on products that are no longer available.",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom1.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom2.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom3.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom4.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom5.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecom/ecom6.png?raw=true",
-            "position": "bottom"
-          }
-        ]
-      }
-    },
-    {
-      "id": 7,
-      "name": "eCommerce Website",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
-      "details": {
-        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
-        "visibility": false,
-        "topics": [
-          {
-            "description": "With ecommerce booming, the world is becoming a smaller place in terms of trade. We wanted to take this thought one step further and bring the shopping experience to you, the customer. With multiple vendors and products at your fingertips, you can shop for everything from electronics to clothes to jewelry and receive it at your doorstep. The app will organize items by category, brand or price range so that you can find exactly what you're looking for with just a few swipes. The app will also be able to tell if an item is in stock or not so that you won't waste time on products that are no longer available.",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb1.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb2.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb3.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb4.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb5.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb/ecomWeb6.png?raw=true",
-            "position": "bottom"
-          }
-        ]
-      }
-    },
-    {
-      "id": 8,
-      "name": "Budget Car",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetcar.png?raw=true",
-      "details": {
-        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
-        "visibility": false,
-        "topics": [
-          {
-            "description": " Budget is a well-known brand, located in many countries around the world. The Kuwait branch needed to have its own custom-made website.",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget1.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget2.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget3.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget4.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget5.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/budgetCar/budget6.png?raw=true",
-            "position": "bottom"
-          }
-        ]
-      }
-    },
-    {
-      "id": 9,
-      "name": "Mealz",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz.png?raw=true",
-      "details": {
-        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
-        "visibility": false,
-        "topics": [
-          {
-            "description": " Mealz is the best meal planning app on the market. This application provides you with healthy meals of your day like breakfast, lunch and dinner. These meals are prepared by chef personally for you depending on if you want to gain weight or lose weight or build muscle. Mealz is a great tool for anyone who wants to stay healthy and fit. It can be used by people who are looking to lose weight or just those that want to eat healthier. The application is designed to help you make better choices when it comes to eating food so that you can live a healthier lifestyle long term.",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz1.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz2.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz3.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz4.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealz/mealz5.png?raw=true",
-            "position": "bottom"
-          }
-        ]
-      }
-    },
-    {
-      "id": 10,
-      "name": "Mealz Web",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb.png?raw=true",
-      "details": {
-        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ecomWeb.png?raw=true",
-        "visibility": false,
-        "topics": [
-          {
-            "description": " Mealz is the best meal planning app on the market. This application provides you with healthy meals of your day like breakfast, lunch and dinner. These meals are prepared by chef personally for you depending on if you want to gain weight or lose weight or build muscle. Mealz is a great tool for anyone who wants to stay healthy and fit. It can be used by people who are looking to lose weight or just those that want to eat healthier. The application is designed to help you make better choices when it comes to eating food so that you can live a healthier lifestyle long term.",
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb1.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb2.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb3.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb4.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb5.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb6.png?raw=true",
-            "position": "bottom"
-          },
-          {
-            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/mealzWeb/mealzWeb7.png?raw=true",
             "position": "bottom"
           }
         ]
