@@ -10,11 +10,7 @@
       },
       {
         "name": "Web Developer",
-        "description": "Further expanding my technical repertoire, I embraced the challenges of being a Web Developer. In this role, I applied my design insights to the practical aspects of web development, focusing on coding robust applications and integrating best practices to ensure high-quality deliverables."
-      },
-      {
-        "name": "Software Engineer",
-        "description": "My journey has now evolved to the role of a Software Engineer, where I amalgamate my experiences in design, user experience, and development. In this capacity, I'm dedicated to building sophisticated software solutions, leading initiatives, and continuously advancing my technical skills to create impactful and innovative applications."
+        "description": "In this role, I applied my design insights to the practical aspects of web development, focusing on coding robust applications and integrating best practices to ensure high-quality deliverables."
       },
       {
         "name": "Junior Software Engineer",
@@ -62,7 +58,7 @@
         },
         {
           "text": "Oversaw the entire app development lifecycle, from conceptualization and design to deployment and ongoing support, ensuring a consistent and high-quality user experience."
-        },
+        }
       ]
     },    
     {
@@ -80,10 +76,16 @@
           "text": "Coding design mockups into pixel perfect, tableless, cross-browser compatible, search engine friendly websites via HTML5, CSS3/Bootstrap, and JS/jQuery."
         },
         {
-          "text": "Oversaw the entire web development lifecycle, from conceptualization and design to deployment and ongoing support, ensuring a consistent and high-quality user experience."
+          "text": "Setup domains/email accounts and the best-fitting hosting providers for each website in accordance with their specific technical needs."
         },
         {
-          "text": "Setup domains/email accounts and the best-fitting hosting providers for each website in accordance with their specific technical needs."
+          "text": "Translated requirements into style guides, design systems, design patterns, and attractive user interfaces."
+        },
+        {
+          "text": "Designed various UI elements such as input controls, navigational components, and informational components."
+        },
+        {
+          "text": "Created original graphic designs and identified and troubleshooted UX problems, such as responsiveness issues."
         }
       ]
     }
