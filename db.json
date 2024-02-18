@@ -94,7 +94,7 @@
     {
       "id": 1,
       "name": "TECKpert Web Application",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/techHub.png?raw=true",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/teckpert.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/techhub/techHub.png?raw=true",
         "visibility": false,
@@ -115,7 +115,7 @@
     {
       "id": 2,
       "name": "TECKpert Mobile App",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carHub.png?raw=true",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/teckpert.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/carHub.png?raw=true",
         "visibility": false,
@@ -137,7 +137,7 @@
     {
       "id": 3,
       "name": "Longbow",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym.png?raw=true",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/longbow_logo.svg?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gym.png?raw=true",
         "visibility": false,
@@ -156,7 +156,7 @@
     {
       "id": 4,
       "name": "Karen Sutton Hair Studio",
-      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
+      "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/ks-logo.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
         "visibility": false,
