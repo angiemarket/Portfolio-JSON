@@ -90,7 +90,7 @@
       ]
     }
   ],
-  "projects": [
+  "work": [
     {
       "id": 1,
       "name": "TECKpert Web Application",
@@ -156,6 +156,28 @@
     {
       "id": 4,
       "name": "Karen Sutton Hair Studio",
+      "image": "https://github.com/angiemarket/Portfolio-JSON/blob/main/images/ks-logo.png?raw=true",
+      "details": {
+        "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
+        "visibility": false,
+        "topics": [
+          {
+            "description": "The character and beauty of the antique, vintage and antique jewellery is what makes it so appealing to customers. The owner wanted to give customers an easy way to access the vast collection and bring this beautiful treasure into their homes. He created an app that allows customers to buy from his shop from anywhere at any time. Customers can simply use the app to discover a piece of jewellery that's perfect for them, purchase it, and have it delivered right to their door.",
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold1.png?raw=true",
+            "position": "bottom"
+          },
+          {
+            "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold/gold2.png?raw=true",
+            "position": "bottom"
+          }
+        ]
+      }
+    }
+  ],
+    "projects": [
+    {
+      "id": 1,
+      "name": "Karen Sutton Hair Studio E-Commerce",
       "image": "https://github.com/angiemarket/Portfolio-JSON/blob/main/images/ks-logo.png?raw=true",
       "details": {
         "image": "https://github.com/Elunir/Portfolio-JSON/blob/main/images/gold.png?raw=true",
